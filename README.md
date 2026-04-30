@@ -5,11 +5,6 @@ This project focuses on layout structure, styling, and basic web design principl
 
 ---
 
-## 🚀 Live Demo
-
-👉 (Add your GitHub Pages link here)
-
----
 
 ## ✨ Features
 
@@ -61,8 +56,8 @@ Open `index.html` in your browser.
 ---
 
 ## 📸 Screenshots
-![alt text](image.png)
 ![alt text](image-1.png)
+![alt text](image.png)
 
 ---
 
