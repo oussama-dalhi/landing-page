@@ -57,6 +57,8 @@ Open `index.html` in your browser.
 
 ## 📸 Screenshots
 ![alt text](image-1.png)
+
+---
 ![alt text](image.png)
 
 ---
